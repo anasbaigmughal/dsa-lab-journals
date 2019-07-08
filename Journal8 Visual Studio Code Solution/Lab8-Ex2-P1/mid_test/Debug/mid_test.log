@@ -1,0 +1,17 @@
+﻿Build started 12-Apr-17 12:03:43 AM.
+     1>Project "C:\Users\Muhammad Anas Baig\Documents\Visual Studio 2010\Projects\Lab8-Ex2-P1\mid_test\mid_test.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\mid_test.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         mid_test.vcxproj -> C:\Users\Muhammad Anas Baig\Documents\Visual Studio 2010\Projects\Lab8-Ex2-P1\Debug\mid_test.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\mid_test.unsuccessfulbuild".
+         Touching "Debug\mid_test.lastbuildstate".
+     1>Done Building Project "C:\Users\Muhammad Anas Baig\Documents\Visual Studio 2010\Projects\Lab8-Ex2-P1\mid_test\mid_test.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10
